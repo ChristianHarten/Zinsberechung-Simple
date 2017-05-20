@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zinsberechnung</string>
+    <string name="start_kapital">Startkapital</string>
+    <string name="zinssatz">Zinssatz</string>
+    <string name="laufzeit">Laufzeit in Jahren</string>
+    <string name="ergebnis">Das Kapital hat sich auf folgenden Betrag erhöht: </string>
+    <string name="button_text">Weiter</string>
+</resources>
